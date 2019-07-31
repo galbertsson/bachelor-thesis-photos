@@ -17,6 +17,18 @@
 
 <img src="pictures/match_mobile.png" width="50%" />
 
-<img src="pictures/wc_mobile.png" width="50%" />
+<img src="pictures/wwc_mobile.png" width="50%" />
+
+<img src="pictures/tournament_mobile.png" width="50%" />
+
+<img src="pictures/team_mobile.png" width="50%" />
 
 <img src="pictures/player_mobile.png" width="50%" />
+
+## Tablet view
+
+<img src="pictures/match_tablet.png" width="70%" />
+
+<img src="pictures/wc_tablet.png" width="70%" />
+
+<img src="pictures/player_tablet.png" width="70%" />
