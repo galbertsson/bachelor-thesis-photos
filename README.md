@@ -15,15 +15,15 @@
 
 ## Smartphone view
 
-<img src="pictures/match_mobile.png" width="50%" />
+<img src="pictures/match_mobile.png" width="360px" />
 
-<img src="pictures/wwc_mobile.png" width="50%" />
+<img src="pictures/wwc_mobile.png" width="360px" />
 
-<img src="pictures/tournament_mobile.png" width="50%" />
+<img src="pictures/tournament_mobile.png" width="360px" />
 
-<img src="pictures/team_mobile.png" width="50%" />
+<img src="pictures/team_mobile.png" width="360px" />
 
-<img src="pictures/player_mobile.png" width="50%" />
+<img src="pictures/player_mobile.png" width="360px" />
 
 ## Tablet view
 
