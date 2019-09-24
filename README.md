@@ -6,7 +6,7 @@ Title: _Auto-generated Web Application for User Acquisition through SEO within W
 ## ⚽️ Overview  
 The main purpose of the thesis was to create and develop a web application with auto-generated content and to investigate how it can be utilized to acquire users to a smartphone application. Consequently, a web application was developed in collaboration with Forza Football. 
 
-At the time of finalizing the thesis, the platform had been live for roughly two months at [https://womens-livescore.forzafootball.com](https://womens-livescore.forzafootball.com). The creation of the web application was aided by a variety of libraries and frameworks. Using a combination of [Next.js](https://nextjs.org/) and an external REST data source, it was possible to automatically generate content on the web page, rendering it discov- erable by Google’s crawlers. The frontend was built using [React](https://reactjs.org).
+At the time of finalizing the thesis, the platform had been live for roughly two months at [https://womens-livescore.forzafootball.com](https://womens-livescore.forzafootball.com). The creation of the web application was aided by a variety of libraries and frameworks. Using a combination of [Next.js](https://nextjs.org/) and an external REST data source, it was possible to automatically generate content on the web page, rendering it discoverable by Google’s crawlers. The frontend was built using [React](https://reactjs.org).
 
 
 The platform succeeded in ranking as the first result for some of the targeted search queries and got more than 350 000 impressions on Google's Search Engine during the two months. 
