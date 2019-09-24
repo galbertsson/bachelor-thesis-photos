@@ -49,7 +49,7 @@ The platform succeeded in ranking as the first result for some of the targeted s
     </tr>
 </table>
 
-## Desktop View
+# Desktop View
 <img src="pictures/match.png" width="90%" />
 Figure 1: An auto-generated page for an arbitrary match.
 
@@ -71,7 +71,7 @@ Figure 6: A custom page was developed specifically for the 404 Error Page.
 <img src="pictures/search.png" width="90%" />
 Figure 7: A search page.
 
-## Smartphone View
+# Smartphone View
 
 <p float="left">
   <img src="pictures/match_mobile.png" width="30%" />
@@ -84,7 +84,9 @@ Figure 7: A search page.
 </p>
 <img src="pictures/player_mobile.png" width="30%" />
 
-## Tablet View
-<img src="pictures/match_tablet.png" width="40%" />
-<img src="pictures/wc_tablet.png" width="40%" /> 
+# Tablet View
+<p float="left">
+    <img src="pictures/match_tablet.png" width="40%" />
+    <img src="pictures/wc_tablet.png" width="40%" /> 
+</p>
 <img src="pictures/player_tablet.png" width="40%" />
